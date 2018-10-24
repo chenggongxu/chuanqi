@@ -2,9 +2,52 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>items</key>
-    <array>
-        <dict>
+	<key>legend.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>0DAEFE3AB8B2618870E592060388C82E2EEAD260</string>
+				<key>dateExpires</key>
+				<string>2019/9/29</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>N757BX5FY3.com.legend.game</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>N757BX5FY3</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>N757BX5FY3.com.legend.game</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Legend.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>5b65b5d9-b95a-4416-8b6d-437e684b6050</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>N757BX5FY3</string>
+				<key>name</key>
+				<string>Le Wang</string>
+			</dict>
             <key>assets</key>
             <array>
                 <dict>
@@ -23,9 +66,11 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>传奇</string>
+                <string>请填上标题</string>
             </dict>
-        </dict>
-    </array>
+
+
+		</dict>
+	</array>
 </dict>
 </plist>
