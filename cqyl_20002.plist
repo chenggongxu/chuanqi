@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/chenggongxu/chuanqi/master/icon_57.png</string>
+					<string>https://raw.githubusercontent.com/chenggongxu/chuanqi/master/icon2_57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/chenggongxu/chuanqi/master/icon_512.png</string>
+					<string>https://raw.githubusercontent.com/chenggongxu/chuanqi/master/icon2_512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
